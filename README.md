@@ -1,8 +1,6 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif;">🎮 FPS Counter 🕹️</h1>
 
-<p align="center">
-  <img src="https://i.ibb.co/c6sJR1t/Screenshot-326.png" alt="FPS Counter" width="500">
-</p>
+
 
 <p align="center">
   The FPS Counter is a web application that measures and displays the Frames Per Second (FPS) of a webpage. It provides real-time feedback on the performance and smoothness of the web page animation or rendering.
